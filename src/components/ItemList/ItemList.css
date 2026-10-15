@@ -1,0 +1,25 @@
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  padding: 24px 5%;
+}
+
+.product-link {
+  color: inherit;
+  text-decoration: none;
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+  .products-container {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .products-container {
+    grid-template-columns: 1fr;
+  }
+}

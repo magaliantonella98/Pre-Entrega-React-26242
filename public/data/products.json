@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Cepillo a Vapor Huella Rosa",
+    "description": "Cepillo a Vapor Huella",
+    "price": 8500,
+    "image": "/img/cepillo-vapor-huella.jpg",
+    "category": "accesorios"
+  },
+  {
+    "id": 2,
+    "name": "Cepillo a Vapor Verde",
+    "description": "Cepillo a Vapor ",
+    "price": 8000,
+    "image": "/img/cepillo-vapor-verde.jpg",
+    "category": "accesorios"
+  },
+  {
+    "id": 3,
+    "name": "Juguete Pescado",
+    "description": "Juguete Inteligente Pescado",
+    "price": 20000,
+    "image": "/img/fish-juguete.jpg",
+    "category": "juguetes"
+  },
+  {
+    "id": 4,
+    "name": "Varita para gatos",
+    "description": "Varita para gatos con pelota",
+    "price": 3000,
+    "image": "/img/juguete-varilla-bolita.jpg",
+    "category": "Juguetes"
+  },
+  {
+    "id": 5,
+    "name": "Pack x3 Juguetes para Gatos",
+    "description": "Pack x3 juguetes para gatos",
+    "price": 5000,
+    "image": "/img/juguetesx3.jpg",
+    "category": "juguetes"
+  },
+  {
+    "id": 6,
+    "name": "Pelota Inteligente",
+    "description": "Pelota Inteligente con diferentes modos de juego",
+    "price": 20000,
+    "image": "/img/pelota-inteligente.jpg",
+    "category": "juguetes"
+  },
+  {
+    "id": 7,
+    "name": "Pack x6 Ratones Para Gatos",
+    "description": "Pack x6 ratones para gatos",
+    "price": 5000,
+    "image": "/img/ratones-6.jpg",
+    "category": "juguetes"
+  }
+]
